@@ -5,10 +5,6 @@
  */
 package dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1;
 
-import dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1.AbstractFactory;
-import dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1.Cat;
-import dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1.Dog;
-
 /**
  *
  * @author ronnie

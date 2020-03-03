@@ -9,13 +9,11 @@ package dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1;
  *
  * @author ronnie
  */
-public class YellowColor implements Color{
+public class YellowColor implements Color {
 
-    
-    
     @Override
     public String getHexColor() {
         return "#FFFF00";
     }
-    
+
 }
