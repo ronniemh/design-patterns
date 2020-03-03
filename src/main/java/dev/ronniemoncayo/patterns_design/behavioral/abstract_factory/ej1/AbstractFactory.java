@@ -3,19 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dev.ronniemoncayo.patrones.disenio.behavioral.abstract_factory.ej1;
+package dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1;
 
 /**
  *
  * @author ronnie
+ * @param <T>
  */
-public class YellowColor implements Color{
-
-    
-    
-    @Override
-    public String getHexColor() {
-        return "#FFFF00";
-    }
-    
+public interface AbstractFactory<T> {
+    T create(String type);
 }

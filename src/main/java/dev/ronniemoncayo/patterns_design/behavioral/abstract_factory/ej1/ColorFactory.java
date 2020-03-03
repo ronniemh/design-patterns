@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dev.ronniemoncayo.patrones.disenio.behavioral.abstract_factory.ej1;
+package dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1;
 
 /**
  *

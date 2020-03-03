@@ -3,22 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dev.ronniemoncayo.patrones.disenio.behavioral.abstract_factory.ej1;
+package dev.ronniemoncayo.patterns_design.behavioral.abstract_factory.ej1;
 
 /**
  *
  * @author ronnie
  */
-public class Cat implements Animal {
+public class Dog implements Animal {
 
     @Override
     public String getAnimal() {
-        return "Cat";
+        return "Dog";
     }
 
     @Override
     public String makeSound() {
-        return "miau miau";
+        return "guau guau";
     }
 
 }
